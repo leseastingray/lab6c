@@ -1,0 +1,9 @@
+C:\manta\Lab4Part2\CardMaintenance\CardClassLibrary\bin\Debug\netstandard2.0\CardClassLibrary.deps.json
+C:\manta\Lab4Part2\CardMaintenance\CardClassLibrary\bin\Debug\netstandard2.0\CardClassLibrary.dll
+C:\manta\Lab4Part2\CardMaintenance\CardClassLibrary\bin\Debug\netstandard2.0\CardClassLibrary.pdb
+C:\manta\Lab4Part2\CardMaintenance\CardClassLibrary\obj\Debug\netstandard2.0\CardClassLibrary.csprojAssemblyReference.cache
+C:\manta\Lab4Part2\CardMaintenance\CardClassLibrary\obj\Debug\netstandard2.0\CardClassLibrary.csproj.CoreCompileInputs.cache
+C:\manta\Lab4Part2\CardMaintenance\CardClassLibrary\obj\Debug\netstandard2.0\CardClassLibrary.AssemblyInfoInputs.cache
+C:\manta\Lab4Part2\CardMaintenance\CardClassLibrary\obj\Debug\netstandard2.0\CardClassLibrary.AssemblyInfo.cs
+C:\manta\Lab4Part2\CardMaintenance\CardClassLibrary\obj\Debug\netstandard2.0\CardClassLibrary.dll
+C:\manta\Lab4Part2\CardMaintenance\CardClassLibrary\obj\Debug\netstandard2.0\CardClassLibrary.pdb
