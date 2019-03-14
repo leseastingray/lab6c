@@ -1,0 +1,9 @@
+C:\manta\lab6c\CardMaintenance\CardMaintenance\bin\Debug\CardMaintenance.exe.config
+C:\manta\lab6c\CardMaintenance\CardMaintenance\bin\Debug\CardMaintenance.exe
+C:\manta\lab6c\CardMaintenance\CardMaintenance\bin\Debug\CardMaintenance.pdb
+C:\manta\lab6c\CardMaintenance\CardMaintenance\obj\Debug\CardMaintenance.csprojAssemblyReference.cache
+C:\manta\lab6c\CardMaintenance\CardMaintenance\obj\Debug\CardMaintenance.Properties.Resources.resources
+C:\manta\lab6c\CardMaintenance\CardMaintenance\obj\Debug\CardMaintenance.csproj.GenerateResource.cache
+C:\manta\lab6c\CardMaintenance\CardMaintenance\obj\Debug\CardMaintenance.csproj.CoreCompileInputs.cache
+C:\manta\lab6c\CardMaintenance\CardMaintenance\obj\Debug\CardMaintenance.exe
+C:\manta\lab6c\CardMaintenance\CardMaintenance\obj\Debug\CardMaintenance.pdb

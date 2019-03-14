@@ -43,11 +43,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="CardDeckTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CardClassLibrary\CardClassLibrary.csproj">
+      <Project>{fafbcaa4-35f3-4f61-9222-c7332b7d8315}</Project>
+      <Name>CardClassLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CardMaintenance\CardMaintenance.csproj">
+      <Project>{15b34d59-f0f4-46b1-a078-cc944929b61e}</Project>
+      <Name>CardMaintenance</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CardTests\CardTests.csproj">
+      <Project>{9692f61c-8c43-4f8d-8ca3-08b588ad1d08}</Project>
+      <Name>CardTests</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
