@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\manta\\lab6c\\CardMaintenance\\CardClassLibrary\\CardClassLibrary.csproj",
+      "projectUniqueName": "C:\\MantaLab\\lab6c\\CardMaintenance\\CardClassLibrary\\CardClassLibrary.csproj",
       "projectName": "CardClassLibrary",
-      "projectPath": "C:\\manta\\lab6c\\CardMaintenance\\CardClassLibrary\\CardClassLibrary.csproj",
+      "projectPath": "C:\\MantaLab\\lab6c\\CardMaintenance\\CardClassLibrary\\CardClassLibrary.csproj",
       "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-      "outputPath": "C:\\manta\\lab6c\\CardMaintenance\\CardClassLibrary\\obj\\",
+      "outputPath": "C:\\MantaLab\\lab6c\\CardMaintenance\\CardClassLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

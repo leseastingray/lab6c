@@ -22,7 +22,6 @@ namespace CardClassLibrary
                     cards.Add(new Card(i, j));
                 }
             }
-
         }
 
         // Count property
@@ -52,6 +51,7 @@ namespace CardClassLibrary
         // Get index 0 from list
         // Remove index 0 from list
         // Return index 0 card
+        // Update CardDeck list
         public Card DealCard()
         {
             Card dealtCard = cards[0];
@@ -78,6 +78,5 @@ namespace CardClassLibrary
             }
             return output;
         }
-
     }
 }
