@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{15B34D59-F0F4-46B1-A078-CC944929B61E}|Default">
+  <MonoDevelop.Ide.ItemProperties.CardMaintenance PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CardTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CardClassLibrary/Card.cs">
+    <Files>
+      <File FileName="CardClassLibrary/Hand.cs" Line="31" Column="9" />
+      <File FileName="CardClassLibrary/BJHand.cs" Line="1" Column="1" />
+      <File FileName="CardClassLibrary/CardDeck.cs" Line="10" Column="34" />
+      <File FileName="CardClassLibrary/Card.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

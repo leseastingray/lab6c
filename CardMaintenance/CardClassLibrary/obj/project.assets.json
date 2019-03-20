@@ -176,30 +176,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Student\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/amylese/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MantaLab\\lab6c\\CardMaintenance\\CardClassLibrary\\CardClassLibrary.csproj",
+      "projectUniqueName": "/Users/amylese/School/2019Winter/lab6c/CardMaintenance/CardClassLibrary/CardClassLibrary.csproj",
       "projectName": "CardClassLibrary",
-      "projectPath": "C:\\MantaLab\\lab6c\\CardMaintenance\\CardClassLibrary\\CardClassLibrary.csproj",
-      "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-      "outputPath": "C:\\MantaLab\\lab6c\\CardMaintenance\\CardClassLibrary\\obj\\",
+      "projectPath": "/Users/amylese/School/2019Winter/lab6c/CardMaintenance/CardClassLibrary/CardClassLibrary.csproj",
+      "packagesPath": "/Users/amylese/.nuget/packages/",
+      "outputPath": "/Users/amylese/School/2019Winter/lab6c/CardMaintenance/CardClassLibrary/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/amylese/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
