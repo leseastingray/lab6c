@@ -190,7 +190,6 @@ namespace CardTests
             bJHandCards.Add(card2);
             Console.WriteLine("Expecting True: " + bJHandCards.IsBusted());
 
-
         }
     }
 }

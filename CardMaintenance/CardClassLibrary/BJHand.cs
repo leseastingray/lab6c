@@ -5,7 +5,6 @@ namespace CardClassLibrary
     public class BJHand : Hand
     {
         // fields
-        int score = 0;
         protected List<Card> bJHandCards;
 
         // BJHand constructor
@@ -19,7 +18,8 @@ namespace CardClassLibrary
         {
             get
             {
-                foreach (Card cardInBJH in bJHandCards)
+                int score = 0;
+                foreach (Card cardInBJH in handCards)
                 {
                     if (cardInBJH.IsFaceCard())
                     {
