@@ -21,13 +21,21 @@ namespace CardClassLibrary
             {
                 foreach (Card cardInBJH in bJHandCards)
                 {
-                    score += cardInBJH.Value;
+                    if (cardInBJH.IsFaceCard())
+                    {
+                        score += 10;
+                    }
+                    else
+                    {
+                        score += cardInBJH.Value;
+                    }
                 }
                 return score;
             }
+
         }
         // bool methods
-        public bool HasAce(int value)
+        public bool HasAce()
         {
             foreach (Card cardInBJH in handCards)
             {
@@ -38,9 +46,21 @@ namespace CardClassLibrary
             }
             return false;
         }
-        public bool IsBusted(int value1, int value2)
+        public bool IsBusted()
         {
-            if (bJHandCards.Score > 21 )
+            int finalscore = this.Score;
+            if (this.HasAce())
+            {
+                if (this.Score + 10 <= 21)
+                {
+                    finalscore += 10;
+                }
+            }
+                if (finalscore > 21)
+            {
+                return true;
+            }
+            return false;
         }
     }
 }
