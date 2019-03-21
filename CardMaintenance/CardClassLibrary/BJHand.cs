@@ -5,12 +5,11 @@ namespace CardClassLibrary
     public class BJHand : Hand
     {
         // fields
-        protected List<Card> bJHandCards;
 
         // BJHand constructor
         public BJHand()
         {
-           bJHandCards = new List<Card>();
+
         }
 
         // score property

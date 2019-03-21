@@ -175,12 +175,14 @@ namespace CardTests
             bJHandCards.Add(card3);
             bJHandCards.Add(card4);
             Console.WriteLine("Expecting score of 12: " + bJHandCards.Score);
+            Console.WriteLine();
 
             Console.WriteLine("Testing BJHand HasAce Method");
             Console.WriteLine("Expecting False: " + bJHandCards.HasAce());
             bJHandCards.Discard(card2);
             bJHandCards.Add(card1);
             Console.WriteLine("Expecting True: " + bJHandCards.HasAce());
+            Console.WriteLine();
 
             Console.WriteLine("Testing BJHand IsBusted Method");
             Console.WriteLine("Expecting False: " + bJHandCards.IsBusted());
